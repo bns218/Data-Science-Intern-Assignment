@@ -1,0 +1,8 @@
+bs4
+re 
+requests
+chromadb
+transformers
+mysql-connector-python
+langchain_google_genai
+sentence_transformers

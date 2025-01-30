@@ -1,0 +1,52 @@
+natural language processing nlp is a subfield of computer science and especially artificial intelligence it is primarily concerned with providing computers with the ability to process data encoded in 
+ natural language and is thus closely related to information retrieval knowledge representation and computational linguistics a subfield of linguistics typically data is collected in text corpora using
+  either rulebased statistical or neuralbased approaches in machine learning and deep learning 
+ major tasks in natural language processing are speech recognition text classification naturallanguage understanding and naturallanguage generation 
+ natural language processing has its roots in the 1950s1 already in 1950 alan turing published an article titled computing machinery and intelligence which proposed what is now called the turing test a
+ s a criterion of intelligence though at the time that was not articulated as a problem separate from artificial intelligence the proposed test includes a task that involves the automated interpretatio
+ n and generation of natural language 
+ the premise of symbolic nlp is wellsummarized by john searles chinese room experiment given a collection of rules eg a chinese phrasebook with questions and matching answers the computer emulates natu
+ ral language understanding or other nlp tasks by applying those rules to the data it confronts 
+ up until the 1980s most natural language processing systems were based on complex sets of handwritten rules starting in the late 1980s however there was a revolution in natural language processing wit
+ h the introduction of machine learning algorithms for language processing this was due to both the steady increase in computational power see moores law and the gradual lessening of the dominance of c
+ homskyan theories of linguistics eg transformational grammar whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machinelearning approach to language processi
+ ng8 
+ in 2003 word ngram model at the time the best statistical algorithm was outperformed by a multilayer perceptron with a single hidden layer and context length of several words trained on up to 14 milli
+ on of words with a cpu cluster in language modelling by yoshua bengio with coauthors9 
+ in 2010 tomáš mikolov then a phd student at brno university of technology with coauthors applied a simple recurrent neural network with a single hidden layer to language modelling10 and in the followi
+ ng years he went on to develop word2vec in the 2010s representation learning and deep neural networkstyle featuring many hidden layers machine learning methods became widespread in natural language pr
+ ocessing that popularity was due partly to a flurry of results showing that such techniques1112 can achieve stateoftheart results in many natural language tasks eg in language modeling13 and parsing14
+ 15 this is increasingly important in medicine and healthcare where nlp helps analyze notes and text in electronic health records that would otherwise be inaccessible for study when seeking to improve 
+ care16 or protect patient privacy17 
+ symbolic approach ie the handcoding of a set of rules for manipulating symbols coupled with a dictionary lookup was historically the first approach used both by ai in general and by nlp in particular1
+ 819 such as by writing grammars or devising heuristic rules for stemming 
+ machine learning approaches which include both statistical and neural networks on the other hand have many advantages over the symbolic approach 
+ although rulebased systems for manipulating symbols were still in use in 2020 they have become mostly obsolete with the advance of llms in 2023 
+ before that they were commonly used 
+ in the late 1980s and mid1990s the statistical approach ended a period of ai winter which was caused by the inefficiencies of the rulebased approaches2021 
+ the earliest decision trees producing systems of hard ifthen rules were still very similar to the old rulebased approaches only the introduction of hidden markov models applied to partofspeech tagging
+  announced the end of the old rulebased approach 
+ a major drawback of statistical methods is that they require elaborate feature engineering since 201522 the statistical approach has been replaced by the neural networks approach using semantic networ
+ ks23 and word embeddings to capture semantic properties of words 
+ intermediate tasks eg partofspeech tagging and dependency parsing are not needed anymore 
+ neural machine translation based on thennewly invented sequencetosequence transformations made obsolete the intermediate steps such as word alignment previously necessary for statistical machine trans
+ lation 
+ the following is a list of some of the most commonly researched tasks in natural language processing some of these tasks have direct realworld applications while others more commonly serve as subtasks
+  that are used to aid in solving larger tasks 
+ though natural language processing tasks are closely intertwined they can be subdivided into categories for convenience a coarse division is given below 
+ based on longstanding trends in the field it is possible to extrapolate future directions of nlp as of 2020 three trends among the topics of the longstanding series of conll shared tasks can be observ
+ ed46 
+ most higherlevel nlp applications involve aspects that emulate intelligent behaviour and apparent comprehension of natural language more broadly speaking the technical operationalization of increasing
+ ly advanced aspects of cognitive behaviour represents one of the developmental trajectories of nlp see trends among conll shared tasks above 
+ cognition refers to the mental action or process of acquiring knowledge and understanding through thought experience and the senses47 cognitive science is the interdisciplinary scientific study of the
+  mind and its processes48 cognitive linguistics is an interdisciplinary branch of linguistics combining knowledge and research from both psychology and linguistics49 especially during the age of symbo
+ lic nlp the area of computational linguistics maintained strong ties with cognitive studies 
+ as an example george lakoff offers a methodology to build natural language processing nlp algorithms through the perspective of cognitive science along with the findings of cognitive linguistics50 wit
+ h two defining aspects 
+ ties with cognitive linguistics are part of the historical heritage of nlp but they have been less frequently addressed since the statistical turn during the 1990s nevertheless approaches to develop c
+ ognitive models towards technically operationalizable frameworks have been pursued in the context of various frameworks eg of cognitive grammar53 functional grammar54 construction grammar55 computatio
+ nal psycholinguistics and cognitive neuroscience eg actr however with limited uptake in mainstream nlp as measured by presence on major conferences56 of the acl more recently ideas of cognitive nlp ha
+ ve been revived as an approach to achieve explainability eg under the notion of cognitive ai57 likewise ideas of cognitive nlp are inherent to neural models multimodal nlp although rarely made explici
+ t58 and developments in artificial intelligence specifically tools and technologies using large language model approaches59 and new directions in artificial general intelligence based on the free ener
+ gy principle60 by british neuroscientist and theoretician at university college london karl j friston 
+ 

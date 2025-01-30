@@ -1,0 +1,7 @@
+pandas
+datasets
+nltk
+matplotlib
+scikit-learn
+mqsql-connector-python
+flask
