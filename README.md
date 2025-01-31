@@ -31,7 +31,7 @@ This project involves building a machine learning model and deploying it using a
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/bns218/Data-Science-Intern-Assignment/tree/main/Assignment1
 cd Assignment1
 ```
 
@@ -80,8 +80,8 @@ curl -X POST -H "Content-Type: application/json" -d '{"text": "Sample input text
 
 ### Install and Run Locally
 ```sh
-git clone <repo_url>
-cd <repo_directory>
+git clone https://github.com/bns218/Data-Science-Intern-Assignment/tree/main/Assignment2
+cd Assignment2
 pip install -r requirements.txt
 ```
 
